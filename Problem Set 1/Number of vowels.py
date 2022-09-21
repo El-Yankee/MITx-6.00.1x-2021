@@ -1,4 +1,4 @@
-#Contador de Vocales
+#Number of vowels
 
 s = "aaaaaaaa"
 voc = 0
